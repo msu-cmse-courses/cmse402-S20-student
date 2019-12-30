@@ -4,6 +4,6 @@
 
 The content for this course lives in the GitHub repository accessible from the side bar of this site. In addition, here are some quick link to important course content:
 
-[Course Syllabus](~/course_documents/CMSE402-Syllabus.pdf)
+[Course Syllabus](https://linktosyllabus.com)
 
 ## Other stuff
