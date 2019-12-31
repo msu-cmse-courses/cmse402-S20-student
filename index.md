@@ -8,9 +8,12 @@ The content for this course lives in the GitHub repository accessible from the s
 
 ## Instructor Information
 
-Devin W. Silvia \\
-Director of Undergraduate Studies and Teaching Specialist \\
-Department of Computational Mathematics, Science and Engineering \\
-Office hours: Thursday, 1:00 - 3:00pm, 1508E Engineering Building \\
-Email: [dsilvia@msu.edu](mailto:dsilvia@msu.edu) \\
-Web: [www.devinsilvia.com](www.devinsilvia.com) \\
+Devin W. Silvia  
+Director of Undergraduate Studies and Teaching Specialist  
+Department of Computational Mathematics, Science and Engineering  
+**Office hours**: Thursday, 1:00 - 3:00pm, 1508E Engineering Building  
+**Email**: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)  
+**Web**: [www.devinsilvia.com](www.devinsilvia.com)  
+
+**TA**: Carl Fields, PhD student, Department of Physics and Astronomy  
+**Email**: [fieldsc9@msu.edu](mailto:fieldsc9@msu.edu)
