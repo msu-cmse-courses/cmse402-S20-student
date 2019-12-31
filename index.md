@@ -12,4 +12,5 @@ Devin W. Silvia
 Director of Undergraduate Studies and Teaching Specialist
 Department of Computational Mathematics, Science and Engineering
 Office hours: Thursday, 1:00 - 3:00pm, 1508E Engineering Building
-Email: dsilvia@msu.edu
+Email: [dsilvia@msu.edu](mailto:dsilvia@msu.edu)
+Web: [www.devinsilvia.com](www.devinsilvia.com)
