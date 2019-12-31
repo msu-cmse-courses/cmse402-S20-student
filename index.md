@@ -2,9 +2,18 @@
 
 ## Course Details
 
-The content for this course lives in the GitHub repository accessible from the side bar of this site. In addition, here are some quick links to important course content:
+The core content for this course lives in the GitHub repository accessible
+on the left hand side of this page. In addition, here are some quick links
+to important course content:
 
-[Course Syllabus](/course_documents/CMSE402-Syllabus.pdf)
+* [Course Syllabus](/course_documents/CMSE402-Syllabus.pdf)
+* [Course Calendar](/course_documents/CMSE402-Calendar.pdf)
+
+Course assignments will be distributed via
+[GitHub Classroom](https://classroom.github.com/).
+
+Course discussions will be held in the `#dataviz-s20` channel on the
+[CMSE Slack space](https://cmse-courses.slack.com).
 
 ## Instructor Information
 
@@ -17,3 +26,7 @@ Department of Computational Mathematics, Science and Engineering
 
 **TA**: Carl Fields, PhD student, Department of Physics and Astronomy  
 **Email**: [fieldsc9@msu.edu](mailto:fieldsc9@msu.edu)
+
+## Additional Reference materials
+
+More stuff might show up here later!
