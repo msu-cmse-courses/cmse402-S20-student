@@ -25,7 +25,7 @@ Department of Computational Mathematics, Science and Engineering
 **Web**: [www.devinsilvia.com](www.devinsilvia.com)  
 
 **TA**: Carl Fields, PhD student, Department of Physics and Astronomy
-**Office hours**: Fridays, 2:00 - 4:00pm, BPS 3262  
+**Office hours**: Fridays, 2:00 - 4:00pm, BPS 3262.  
 **Email**: [fieldsc9@msu.edu](mailto:fieldsc9@msu.edu)
 
 ## Additional Reference materials
